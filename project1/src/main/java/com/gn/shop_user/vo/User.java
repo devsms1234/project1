@@ -19,7 +19,6 @@ public class User {
 	private int user_point;
 	
 	public User() {}
-
 	public User(int user_no, String user_id, String user_pw, String user_birth, String user_name, String user_address,
 			String user_address_detail, String user_email, String user_mobile, String user_phone,
 			LocalDateTime user_date, LocalDateTime user_del_date, String user_delete, int user_point) {
