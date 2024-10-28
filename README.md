@@ -2,3 +2,4 @@
 
 
  MVC 패턴
+JDBC
